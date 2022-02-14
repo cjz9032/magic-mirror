@@ -7,6 +7,7 @@ export const GlobalStyle = createGlobalStyle`
     height: 100%;
     width: 100%;
     line-height: 1.5;
+    padding: 0!important;
   }
 
   body {
@@ -32,5 +33,20 @@ export const GlobalStyle = createGlobalStyle`
   .icon {
     width: 1.5rem;
     height: 1.5rem;
+  }
+
+  img{
+    width: 100%;
+  }
+
+  .img2 {
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    margin-top: -20%;
+    margin-left: -25%;
+    width: 50%;
+    opacity: 0.9;
   }
 `;

@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@picovoice/porcupine-web-en-worker": "2.1.1",
+    "@picovoice/porcupine-web-react": "2.1.1",
+    "@picovoice/rhino-web-en-worker": "2.1.0",
+    "@picovoice/rhino-web-react": "2.1.1",
+    "@picovoice/web-voice-processor": "2.1.4",
     "@reduxjs/toolkit": "1.7.1",
     "@testing-library/jest-dom": "5.16.1",
     "@testing-library/react": "12.1.2",
