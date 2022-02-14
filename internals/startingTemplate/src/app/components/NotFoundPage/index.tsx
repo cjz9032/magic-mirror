@@ -18,7 +18,7 @@ export function NotFoundPage() {
           </span>
           4
         </Title>
-        <P>Page not found.</P>
+        <P>Page not found2.</P>
       </Wrapper>
     </>
   );
