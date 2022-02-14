@@ -23,7 +23,7 @@ import mirror2Img from '../imgs/2.png';
 import { RhinoWorkerFactory } from '@picovoice/rhino-web-en-worker';
 import { useRhino } from '@picovoice/rhino-web-react';
 
-const accessKey = 'bcVEMablUwmBNXPqh1CsVL6WxORWPM2gkyvtl1pxL7nIJRauiPp6MQ=='; // AccessKey obtained from [Picovoice Console](https://picovoice.ai/console/)
+const accessKey = '3Cdt5+d1/9oHiFxG0/upa4QUD68m+N4/96nULkH8A98ErWDrUC3KQA=='; // AccessKey obtained from [Picovoice Console](https://picovoice.ai/console/)
 
 export function App() {
   const keywordEventHandler = React.useCallback(keywordLabel => {
