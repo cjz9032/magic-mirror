@@ -51,6 +51,7 @@ export function App() {
     console.log(`Rhino inferred:`, rhinoInference);
     if (rhinoInference?.isUnderstood) {
       setReg(true);
+      setMirrorStatus(true);
     }
     setLatestInference(rhinoInference);
   };
@@ -84,7 +85,7 @@ export function App() {
     setKeywordEventHandler,
   } = usePorcupine(
     PorcupineWorkerFactory,
-    { accessKey: accessKey, keywords: keywords, start: true },
+    { accessKey: accessKey, keywords: keywords, start: false },
     keywordEventHandler,
   );
 
