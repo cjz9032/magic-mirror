@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "./static/css/main.e18a66c1.css",
-    "main.js": "./static/js/main.cb805022.js",
+    "main.js": "./static/js/main.ce0163db.js",
     "static/js/641.c65fab69.chunk.js": "./static/js/641.c65fab69.chunk.js",
-    "static/js/230.50ca4947.chunk.js": "./static/js/230.50ca4947.chunk.js",
+    "static/js/230.e3cad25f.chunk.js": "./static/js/230.e3cad25f.chunk.js",
     "static/js/27.3d12aca1.chunk.js": "./static/js/27.3d12aca1.chunk.js",
     "static/media/cra-logo.svg": "./static/media/cra-logo.2966aaf8b9b987d0db8fe539a2384164.svg",
     "static/media/rp-logo.svg": "./static/media/rp-logo.1e68e14ec4265e6fef2746a136b3aa00.svg",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.e18a66c1.css",
-    "static/js/main.cb805022.js"
+    "static/js/main.ce0163db.js"
   ]
 }

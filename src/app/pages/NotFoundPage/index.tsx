@@ -22,7 +22,7 @@ export function NotFoundPage() {
           </span>
           4
         </Title>
-        <P>Page not found.</P>
+        <P>Page not found2.</P>
         <Link to={process.env.PUBLIC_URL + '/'}>Return to Home Page</Link>
       </Wrapper>
     </>
